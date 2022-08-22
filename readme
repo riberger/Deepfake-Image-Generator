@@ -1,0 +1,2 @@
+The project is compiled within the CatGan.ipynb is where the code is compiled and end results are shown
+The rest of the code is within the layers, dcan,, losses, and neuralnet files. They each implement different functions
